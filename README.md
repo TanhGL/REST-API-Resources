@@ -1,6 +1,10 @@
 
 -------------------------------------------------------------------------
-# REST-API-Resources---FPT
+# REST-API-Resources_FPT 
+| Thông tin / Notice | Chi tiết / Details |
+| :--- | :--- |
+| **Purpose** | Educational purposes only *(Dự án với mục đích học tập)* |
+| **Notice** | ⚠️ Unauthorized use, copying, or redistribution is strictly prohibited. *(Không sử dụng hoặc chia sẻ trái phép)* |
 
 Test full .NET using VS Code => full file contact fmap@dev.com
 
