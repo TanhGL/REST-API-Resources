@@ -1,18 +1,8 @@
-# REST-API-Resources---FPT
-test full .NET using VS Code
-- using accout
-- logs
-- Web.config
-- inventory.json
-- Global.asax
-- exclude.txt
-- data.json
-- Properties
 
 -------------------------------------------------------------------------
 # REST-API-Resources---FPT
 
-Test full .NET using VS Code
+Test full .NET using VS Code => full file contact fmap@dev.com
 
 | Ngày / Giờ | Loại / Kích thước | Tên File / Thư mục |
 | :--- | :--- | :--- |
