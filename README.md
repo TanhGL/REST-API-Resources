@@ -1,4 +1,4 @@
-## Bypass (Bản bypass lh fmap@dev.com)
+## Bypass (LH nhận fmap@dev.com)
 <b>Tracking_GetListTDByMobiAccount </b>
 - Full tập điểm được gắn theo acc, đi kèm theo là SHD
 - Cls kèm theo các SHD
