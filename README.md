@@ -1,4 +1,146 @@
+## Tổng quan dữ liệu Tên miền (Domain Dataset Overview)
 
+Dưới đây là bảng thống kê và phân loại danh sách các tên miền phụ (subdomains) thuộc sở hữu của Tập đoàn **FPT (`fpt.vn`)** dựa trên dữ liệu bạn cung cấp.
+
+---
+
+### 1. Thông tin chung
+* **Mã phản hồi (Response Code):** `1` (Thành công)
+* **Trạng thái:** Tìm thấy tên miền trong cơ sở dữ liệu (`Domain found in dataset`).
+* **Tổng số tên miền phụ:** 100 subdomains.
+
+---
+
+### 2. Bảng phân loại hệ thống Tên miền phụ (Subdomain Categories)
+
+| Nhóm hệ thống | Danh sách tên miền phụ (Subdomains) |
+| :--- | :--- |
+| **Xác thực & Tài khoản** *(Auth & Identity)* | `accounts.fpt.vn`, `accounts-stag.fpt.vn`, `id.fpt.vn`, `auth.fpt.vn`, `ftelsso-stag.fpt.vn` |
+| **Dịch vụ Khách hàng & Cổng thông tin** *(Portals & Care)* | `hi.fpt.vn`, `staging-hi.fpt.vn`, `member.fpt.vn`, `onmember.fpt.vn`, `khachhangthanthiet.fpt.vn`, `fcitizen.fpt.vn` |
+| **Hệ thống Kiểm tra Tốc độ** *(Speedtest Nodes)* | `speedtest.fpt.vn`, `speedtest03.fpt.vn` đến `speedtest10.fpt.vn`, `speedtest18.fpt.vn`, `speedtestsgp.fpt.vn`, `speedtesthkg.fpt.vn`, `speedtesthn.fpt.vn`, `speedtestdng.fpt.vn`, `lbspeedhn.fpt.vn` |
+| **API & Dịch vụ Tích hợp** *(APIs & Integrations)* | `apis.fpt.vn`, `apis-stag.fpt.vn`, `sapi.fpt.vn`, `cads-api.fpt.vn`, `hifpt-api.fpt.vn`, `hifpt-api-stag.fpt.vn`, `staging-hi-api.fpt.vn`, `ncp-integration.fpt.vn`, `caosangtao-api.fpt.vn`, `s3-api.fpt.vn`, `api-edns1.fpt.vn`, `api-paytv-ctv.fpt.vn` |
+| **Thương mại & Bán hàng** *(E-Commerce & Sales)* | `shop.fpt.vn`, `shop-stag.fpt.vn`, `saleplatform-extension.fpt.vn`, `paygate.fpt.vn`, `mobisaleguide.fpt.vn` |
+| **Dịch vụ Truyền thông & Giải trí** *(Media & Entertainment)* | `fptplay.fpt.vn`, `camera.fpt.vn`, `smarttv.fpt.vn`, `missonetv.fpt.vn`, `fbox-alwayson.fpt.vn` |
+| **Hệ thống Nội bộ & Quản trị** *(Internal Operations & HR)* | `hr.fpt.vn`, `efox.fpt.vn`, `efox-stag.fpt.vn`, `daotao.fpt.vn`, `foxnews.fpt.vn`, `office365.fpt.vn`, `fpms.fpt.vn`, `sims.fpt.vn` |
+| **Hệ thống Hỗ trợ & Portal SOP** *(Support & SOP)* | `portal-sop.fpt.vn`, `portal-sop-stg.fpt.vn`, `portal-sop-uat.fpt.vn`, `livechat-sop-uat.fpt.vn`, `ticketportal-stag.fpt.vn`, `chatbotchang.fpt.vn` |
+| **Hạ tầng Mạng & Thiết bị** *(Network & Infrastructure)* | `mywifi.fpt.vn`, `ip.fpt.vn`, `proxy.fpt.vn`, `relay.fpt.vn`, `cpemq.fpt.vn`, `cpemq1.fpt.vn` đến `cpemq6.fpt.vn`, `cpemb.fpt.vn`, `isp-mail.fpt.vn`, `isp-mta4.fpt.vn`, `isp-web.fpt.vn`, `mobinetws.fpt.vn` |
+| **Dữ liệu & Phân tích** *(Data & Tracking)* | `data.fpt.vn`, `cdp.fpt.vn`, `maas.fpt.vn`, `recom.fpt.vn`, `hifpt-tracking.fpt.vn`, `fbox-kibana.fpt.vn` |
+| **Khác** *(Others)* | `www.fpt.vn`, `hcm.fpt.vn`, `fti.fpt.vn`, `usa.fpt.vn`, `qr.fpt.vn`, `f.fpt.vn`, `sr.fpt.vn`, `anh.fpt.vn`, `mediamap.fpt.vn`, `mobimapstag.fpt.vn`, `bblogs.fpt.vn`, `ccatalog.fpt.vn`, `sip-dev.fpt.vn`, `hi-static.fpt.vn` |
+
+---
+
+### 3. JSON Gốc (Raw Data)
+
+```json
+{
+  "detected_urls": [],
+  "domain_siblings": [
+    "accounts.fpt.vn",
+    "hcm.fpt.vn",
+    "staging-hi.fpt.vn",
+    "octopus-stream01-cads.fpt.vn",
+    "hi.fpt.vn",
+    "ncp-integration.fpt.vn",
+    "www.fpt.vn",
+    "speedtestsgp.fpt.vn",
+    "accounts-stag.fpt.vn",
+    "id.fpt.vn",
+    "shop.fpt.vn",
+    "ncp-integration-staging.fpt.vn",
+    "api-edns1.fpt.vn",
+    "member.fpt.vn",
+    "fti.fpt.vn",
+    "saleplatform-extension.fpt.vn",
+    "auth.fpt.vn",
+    "ftelsso-stag.fpt.vn",
+    "apis.fpt.vn",
+    "hi-static.fpt.vn",
+    "staging-hi-api.fpt.vn",
+    "speedtesthkg.fpt.vn",
+    "fptplay.fpt.vn",
+    "sapi.fpt.vn",
+    "mobimapstag.fpt.vn",
+    "mediamap.fpt.vn",
+    "apis-stag.fpt.vn",
+    "camera.fpt.vn",
+    "shop-stag.fpt.vn",
+    "ip.fpt.vn",
+    "portal-sop.fpt.vn",
+    "speedtest.fpt.vn",
+    "hifpt-api-stag.fpt.vn",
+    "fcitizen.fpt.vn",
+    "hss.fpt.vn",
+    "fpro.fpt.vn",
+    "bblogs.fpt.vn",
+    "foxnews.fpt.vn",
+    "proxy.fpt.vn",
+    "cpemq1.fpt.vn",
+    "portal-sop-stg.fpt.vn",
+    "data.fpt.vn",
+    "speedtest05.fpt.vn",
+    "speedtesthn.fpt.vn",
+    "efox.fpt.vn",
+    "staging.fpt.vn",
+    "fpms.fpt.vn",
+    "cads-api.fpt.vn",
+    "portal-sop-uat.fpt.vn",
+    "hr.fpt.vn",
+    "isp-mta4.fpt.vn",
+    "mywifi.fpt.vn",
+    "isp-mail.fpt.vn",
+    "onmember.fpt.vn",
+    "hifpt-api.fpt.vn",
+    "anh.fpt.vn",
+    "speedtestdng.fpt.vn",
+    "paygate.fpt.vn",
+    "efox-stag.fpt.vn",
+    "hifpt-tracking.fpt.vn",
+    "speed18.fpt.vn",
+    "khachhangthanthiet.fpt.vn",
+    "f.fpt.vn",
+    "sr.fpt.vn",
+    "qr.fpt.vn",
+    "mobinetws.fpt.vn",
+    "mobisaleguide.fpt.vn",
+    "isp-web.fpt.vn",
+    "cpemb.fpt.vn",
+    "sims.fpt.vn",
+    "api-paytv-ctv.fpt.vn",
+    "fbox-alwayson.fpt.vn",
+    "ccatalog.fpt.vn",
+    "usa.fpt.vn",
+    "sip-dev.fpt.vn",
+    "fbox-kibana.fpt.vn",
+    "caosangtao-api.fpt.vn",
+    "smarttv.fpt.vn",
+    "recom.fpt.vn",
+    "missonetv.fpt.vn",
+    "daotao.fpt.vn",
+    "office365.fpt.vn",
+    "speedtest10.fpt.vn",
+    "speedtest07.fpt.vn",
+    "s3-api.fpt.vn",
+    "lbspeedhn.fpt.vn",
+    "speedtest09.fpt.vn",
+    "speedtest03.fpt.vn",
+    "cpemq4.fpt.vn",
+    "cpemq5.fpt.vn",
+    "cpemq3.fpt.vn",
+    "cpemq6.fpt.vn",
+    "chatbotchang.fpt.vn",
+    "cpemq.fpt.vn",
+    "relay.fpt.vn",
+    "ticketportal-stag.fpt.vn",
+    "maas.fpt.vn",
+    "livechat-sop-uat.fpt.vn",
+    "cpemq2.fpt.vn",
+    "cdp.fpt.vn"
+  ],
+  "resolutions": [],
+  "response_code": 1,
+  "verbose_msg": "Domain found in dataset",
+  "whois": null
+}
 -------------------------------------------------------------------------
 # REST-API-Resources_FPT 
 | Thông tin / Notice | Chi tiết / Details |
