@@ -140,8 +140,9 @@ Dưới đây là bảng thống kê và phân loại danh sách các tên miề
   "response_code": 1,
   "verbose_msg": "Domain found in dataset",
   "whois": null
-}
 
+}
+```
 
 
 ## REST-API-Resources_FPT 
