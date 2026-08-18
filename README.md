@@ -1,4 +1,3 @@
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/51d590cf-5c09-4693-a628-31db5982a6ea" />
 
 -------------------------------------------------------------------------
 # REST-API-Resources_FPT 
