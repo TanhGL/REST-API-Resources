@@ -1,3 +1,17 @@
+## Bypass (Bản bypass lh fmap@dev.com)
+Tracking_GetListTDByMobiAccount 
+- Full tập điểm được gắn theo acc, đi kèm theo là SHD
+- Cls kèm theo các SHD
+
+** Bypass 
+- Bypass TLS 1.2/1.3, IMEI
+- <b>chặn</b> phát hiện thiết bị root/jailbreak ( loại bỏ check nhà phát triển hoặc tệp tin root/sudo/file Magic)
+- giả lập sinh trắc học
+- Bỏ qua đăng nhập bất thường.
+
+
+
+
 ## Tổng quan dữ liệu Tên miền (Domain Dataset Overview)
 
 Dưới đây là bảng thống kê và phân loại danh sách các tên miền phụ (subdomains) thuộc sở hữu của Tập đoàn **FPT (`fpt.vn`)** dựa trên dữ liệu bạn cung cấp.
