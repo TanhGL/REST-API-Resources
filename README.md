@@ -2,11 +2,14 @@
 Tracking_GetListTDByMobiAccount 
 - Full tập điểm được gắn theo acc, đi kèm theo là SHD
 - Cls kèm theo các SHD
+- Lấy log thông tin nhân viên
+- Xem màn hình hiển thị và các tác vụ của nhân viên khác (Inside+OmmiAgent)
 
 ** Bypass 
-- Bypass TLS 1.2/1.3, IMEI
-- <b>chặn</b> phát hiện thiết bị root/jailbreak ( loại bỏ check nhà phát triển hoặc tệp tin root/sudo/file Magic)
-- giả lập sinh trắc học
+- <u>Bypass TLS 1.2/1.3, IMEI</u>
+- <b>Chặn</b> phát hiện thiết bị root/jailbreak (loại bỏ check nhà phát triển hoặc tệp tin root/sudo/file Magic)
+- <b>Chặn</b> tracking capture
+- Giả lập sinh trắc học
 - Bỏ qua đăng nhập bất thường.
 
 
