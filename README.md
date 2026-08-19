@@ -10,7 +10,7 @@
 - <b>Chặn</b> phát hiện thiết bị root/jailbreak (loại bỏ check nhà phát triển hoặc tệp tin root/sudo/file Magic)
 - <b>Chặn</b> tracking capture
 - Giả lập sinh trắc học
-- Bỏ qua đăng nhập bất thường.
+- Kết hợp full data bên ICPD, ra soát OLT (điều khiển quạt,...), kiếm tra cáp ngầm bên đối tác khác
 
 
 
