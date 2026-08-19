@@ -3,8 +3,8 @@
 - Full tập điểm được gắn theo acc, đi kèm theo là SHD
 - Cls kèm theo các SHD
 - Lấy log thông tin nhân viên
-- Xem màn hình hiển thị và các tác vụ của nhân viên khác <b>(Inside+OmmiAgent)</b>
-
+- Xem màn hình hiển thị và các tác vụ của nhân viên khác <b>(Inside+OmniAgent)</b>
+=
 ** <b>BYPASS </b>
 - <u>Bypass TLS 1.2/1.3, IMEI</u>
 - <b>Chặn</b> phát hiện thiết bị root/jailbreak (loại bỏ check nhà phát triển hoặc tệp tin root/sudo/file Magic)
