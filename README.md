@@ -17,7 +17,7 @@
 
 ## Tổng quan dữ liệu Tên miền (Domain Dataset Overview)
 
-Dưới đây là bảng thống kê và phân loại danh sách các tên miền phụ (subdomains) thuộc sở hữu của Tập đoàn **FPT (`fpt.vn`)** dựa trên dữ liệu bạn cung cấp.
+Dưới đây là bảng thống kê và phân loại danh sách các tên miền phụ (subdomains)cấp.
 
 ---
 
